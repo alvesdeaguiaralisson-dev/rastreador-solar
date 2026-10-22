@@ -54,9 +54,6 @@ A depuração é feita pelo **Monitor Serial** (9600 baud), que exibe as leitura
 - **Registro de ponto incremental**: os ângulos são ajustados de 1 em 1 grau, sem "saltos", o que suaviza o movimento e protege a estrutura mecânica.
 - **Flag de operação**: permite desligar o rastreamento por software sem reiniciar o Arduino.
 
-## Resultados
-
-*(Adicione aqui fotos do protótipo e do monitoramento — veja a pasta `docs/`)*
 
 ## Como executar
 
